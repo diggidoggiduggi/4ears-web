@@ -3,7 +3,7 @@
 @font-face { font-family: Lexend; font-weight: 800; src: url(fonts/Lexend_800ExtraBold.ttf) format('truetype'); font-display: swap; }
 
 :root {
-  --bg: #FFFFFF; --fg: #2D233C; --muted: #716A7D; --line: #E4E0EA; --card: #F3F1F6;
+  --bg: #FFFFFF; --fg: #3A3148; --muted: #716A7D; --line: #E4E0EA; --card: #F3F1F6;
   --sach: #E3EEFB; --selbst: #E1F3E7; --bez: #FFF2D9; --appell: #FBE3E8;
   color-scheme: light dark;
 }
