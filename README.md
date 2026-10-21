@@ -2,7 +2,7 @@
 
 Öffentliche Seiten der iPhone-App **4 Ears** („Message Translator: 4 Ears“):
 
-- Support: <https://marko-vijeko.github.io/4ears-web/>
-- Datenschutz: <https://marko-vijeko.github.io/4ears-web/datenschutz.html>
+- Support: <https://4ears.markovijeko.de/>
+- Datenschutz: <https://4ears.markovijeko.de/datenschutz.html>
 
 Die Quelle liegt im App-Projekt unter `website/` und wird von dort hierher kopiert.
