@@ -1,8 +1,12 @@
-# 4 Ears – Support & Datenschutz
+# 4ears-web – Weiterleitung
 
-Öffentliche Seiten der iPhone-App **4 Ears** („Message Translator: 4 Ears“):
+Die Seiten von 4 Ears liegen seit dem 23.10.2026 auf der gemeinsamen Webseite aller Apps
+von marko-vijeko: **https://apps.markovijeko.de** (Repo `marko-vijeko/apps-web`).
 
-- Support: <https://4ears.markovijeko.de/>
-- Datenschutz: <https://4ears.markovijeko.de/datenschutz.html>
+Dieses Repo leitet nur noch die alte Adresse `4ears.markovijeko.de` weiter, damit Links in
+schon gebauten App-Versionen funktionieren:
 
-Die Quelle liegt im App-Projekt unter `website/` und wird von dort hierher kopiert.
+- `/` → `https://apps.markovijeko.de/hilfe.html#4ears`
+- `/datenschutz.html` → `https://apps.markovijeko.de/datenschutz.html#4ears`
+
+`?lang=…` wird mitgenommen.
